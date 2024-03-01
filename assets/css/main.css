@@ -697,7 +697,7 @@ input, select, textarea {
 
 			.image.main {
 				width: 35%;
-				margin: -2.5rem 0 0rem 3.5rem;
+				margin: -2.5rem 5rem 0rem 0rem;
 			}
 
 		}
@@ -706,16 +706,61 @@ input, select, textarea {
 
 			.image.main {
 				width: 35%;
-				margin: -1rem 0 0rem 2.5rem;
+				margin: -2rem 5rem 0rem 0rem;
+			}
+
+		}
+		
+		@media screen and (max-width: 590px) {
+
+			.image.main {
+				width: 34%;
+				margin: -2rem 5rem 1rem 0rem;
 			}
 
 		}
 
-		@media screen and (max-width: 480px) {
+		@media screen and (max-width: 572px) {
+
+			.image.main {
+				width: 33%;
+				margin: -2rem 5.1rem 1rem 0rem;
+			}
+
+		}
+		
+		@media screen and (max-width: 539px) {
+
+			.image.main {
+				width: 32%;
+				margin: -2rem 5rem 0rem 0rem;
+			}
+
+		}
+
+		@media screen and (max-width: 532px) {
+
+			.image.main {
+				width: 32%;
+				margin: -3rem 5rem 1rem 0rem;
+			}
+
+		}
+
+		@media screen and (max-width: 506px) {
+
+			.image.main {
+				width: 31%;
+				margin: -4rem 5rem 1rem 0rem;
+			}
+
+		}
+
+		@media screen and (max-width: 484px) {
 
 			.image.main {
 				width: 28%;
-				margin: -2rem 0rem 0rem 3rem;
+				margin: -2rem 0rem 0rem 0rem;
 			}
 
 		}
